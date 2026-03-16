@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sixtus
 - 👀 I’m interested in Enterprise Solutions
-- 🌱 I’m currently learning Cloud Development
-- 💞️ I’m looking to collaborate on Software as a Service (SaaS) Projects
+- 🌱 I’m currently learning IT Infrastructure Service
+- 💞️ I’m looking to collaborate on Enterprise Software as a Service (SaaS) Projects
 - 📫 How to reach me sixtus.nnamdi@gmail.com
